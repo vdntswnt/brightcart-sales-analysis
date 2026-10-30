@@ -1,0 +1,41 @@
+product_id,product_name,category,unit_price,unit_cost
+1,ELEC-001,Electronics,325.31,251.75
+2,ELEC-002,Electronics,409.12,327.19
+3,ELEC-003,Electronics,51.62,42.72
+4,ELEC-004,Electronics,314.22,254.08
+5,ELEC-005,Electronics,56.59,43.86
+6,ELEC-006,Electronics,109.18,89.82
+7,ELEC-007,Electronics,228.72,185.78
+8,ELEC-008,Electronics,132.91,100.04
+9,HOME-009,Home & Kitchen,59.51,34.3
+10,HOME-010,Home & Kitchen,117.29,74.26
+11,HOME-011,Home & Kitchen,98.67,59.74
+12,HOME-012,Home & Kitchen,167.36,110.34
+13,HOME-013,Home & Kitchen,103.78,61.17
+14,HOME-014,Home & Kitchen,47.84,27.48
+15,HOME-015,Home & Kitchen,22.01,14.05
+16,HOME-016,Home & Kitchen,95.46,63.65
+17,HOME-017,Home & Kitchen,33.71,20.46
+18,HOME-018,Home & Kitchen,48.18,28.38
+19,FASH-019,Fashion,16.18,8.05
+20,FASH-020,Fashion,20.23,10.46
+21,FASH-021,Fashion,32.83,17.51
+22,FASH-022,Fashion,60.18,28.96
+23,FASH-023,Fashion,81.55,43.26
+24,FASH-024,Fashion,29.29,14.03
+25,FASH-025,Fashion,57.77,26.8
+26,FASH-026,Fashion,19.01,8.57
+27,FASH-027,Fashion,73.47,37.95
+28,FASH-028,Fashion,60.86,32.14
+29,BEAU-029,Beauty,21.65,9.24
+30,BEAU-030,Beauty,10.83,4.13
+31,BEAU-031,Beauty,34.1,14.22
+32,BEAU-032,Beauty,27.26,12.17
+33,BEAU-033,Beauty,31.7,13.48
+34,BEAU-034,Beauty,26.91,10.77
+35,SPOR-035,Sports,16.29,9.67
+36,SPOR-036,Sports,26.69,15.77
+37,SPOR-037,Sports,148.4,85.09
+38,SPOR-038,Sports,17.54,10.14
+39,SPOR-039,Sports,33.0,20.33
+40,SPOR-040,Sports,66.95,42.07
